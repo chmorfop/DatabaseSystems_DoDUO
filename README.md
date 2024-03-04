@@ -1,9 +1,8 @@
 
-# Phase 3 - Implementation
+# DoDUO - Annotating Columns with Pre-trained Language Models
 
 In this phase of our assignment, we focused not only to explore but also to improve 
-the DoDUO model variants of our selected paper (Annotating Columns with Pre-trained Language Models),
-with respect its official repository (https://github.com/megagonlabs/doduo).
+the DoDUO model variants of our selected paper (https://github.com/megagonlabs/doduo).
 
 **This repository consists mainly of 6 below notebooks**:
 * ***DoDUO_Finetune_MSP_Inference.ipynb***
