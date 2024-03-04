@@ -30,6 +30,8 @@ the DoDUO model variants of our selected paper (https://github.com/megagonlabs/d
   An implementation of multi-column (tablewise) relationship, same approach as mentioned in the paper,
   where the main architecture is based on the T5 model.
 
+***Important Notes***
+An overall graph with all the F1 validation score of the T5 model variants
 
 ***Important Notes***
 - In all the respective notebooks, the official DoDUo repository is cloned and integrated
